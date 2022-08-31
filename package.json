@@ -13,7 +13,7 @@
     "core-js": "^3.6.4",
     "file-saver": "^2.0.2",
     "lodash": "^4.17.15",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "roboto-fontface": "*",
     "vue": "^2.6.11",
     "vue-html2pdf": "^1.3.0",
